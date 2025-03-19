@@ -1,1 +1,1 @@
-[#мою резюме](https://ArtyomKidinov.github.io/amcp-cv/cv)
+[Мою резюме](https://ArtyomKidinov.github.io/amcp-cv/cv)
