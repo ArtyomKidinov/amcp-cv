@@ -18,4 +18,4 @@
 - Английский: B1
 
 ## Codewars
-Позже
+[Мой профиль на Codewars](https://www.codewars.com/users/ArtyomKidinov)
